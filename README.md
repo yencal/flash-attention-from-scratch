@@ -76,4 +76,4 @@ The best kernel (06_batched) achieves **92% of FlashAttention-2** (187 vs 204 TF
 
 ## Blog Post
 
-For a detailed walkthrough of the optimization techniques, see the accompanying blog post: TODO
+For a detailed walkthrough of the optimization techniques, see the accompanying blog post: [Flash Attention From Scratch: 7 Kernels to 187 TFLOPS on A100](https://yencal.github.io/gpu-flash-attention/)
